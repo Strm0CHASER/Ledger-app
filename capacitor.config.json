@@ -1,0 +1,2 @@
+{"appId":"com.ledger.budget","appName":"Ledger","webDir":"www","backgroundColor":"#0C0908",
+"plugins":{"StatusBar":{"style":"DARK","backgroundColor":"#0C0908","overlaysWebView":false}}}
